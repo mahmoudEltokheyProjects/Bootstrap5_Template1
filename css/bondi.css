@@ -34,6 +34,7 @@ body {
 }
 /* ================================== start Navbar ================================== */
 .navbar {
+  z-index : 111 ;
   background-color: var(--dark-color);
 }
 /* ++++++++++++++++++++ navbar links ++++++++++++++++++++ */
